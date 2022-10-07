@@ -1,5 +1,5 @@
 # Jarvis
-This is Python Desktop Assistant. It can perform mulitiple tasks by just recognizing your voice commands.
+This is the Python Virtual assistant with a Graphical User Interface (GUI). It can perform multiple tasks by just recognizing your voice commands.
 To make this run in your pc/laptop you need to download few dependencies:
   1. pyttsx3
   2. SpeechRecognition
@@ -8,11 +8,9 @@ To make this run in your pc/laptop you need to download few dependencies:
   5. OpenCV 
   
   use pip install to download these dependencies
-  
-  Also you need to separately download .whl file of pyaudio from uci python and then install it in your package folder
-Also made a couple of changes in this code
+Also remember to have a fast and secured internet connection to make this run. Because it is using google speech recognition api to understand the commands.
 
-Guys! Also remember to have a fast and secured internet connection to make this run. Because it is using google speech recognition api to understand the commands.
-
-
+Libraries used: pyttsx3, Pyaudio, Roman, OpenCV, wikipedia, datetime
+API: Wolfarmalpha, SpeechRecognition
+GUI: Tkinter
 
