@@ -11,6 +11,8 @@ To make this run in your pc/laptop you need to download few dependencies:
 Also remember to have a fast and secured internet connection to make this run. Because it is using google speech recognition api to understand the commands.
 
 Libraries used: pyttsx3, Pyaudio, Roman, OpenCV, wikipedia, datetime
+
 API: Wolfarmalpha, SpeechRecognition
+
 GUI: Tkinter
 
